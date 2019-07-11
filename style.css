@@ -1,0 +1,23 @@
+html {
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 1.5;
+    font-family: "monospace", sans-serif;
+  }
+  h1 {
+    background-image: linear-gradient(45deg, black, white, orange);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    text-align: left;
+    font-size: 32px;
+    color: rgb(226, 38, 28);
+  }
+  h2 {
+    text-decoration: underline;
+  }
+  p {
+    
+  }
+  #title {
+    color: rgb(132,30,25);
+  }
